@@ -1,0 +1,13 @@
+### JAVA ###
+*.class
+
+### IntelliJ ###
+*.iml
+*.ipr
+*.iws
+.idea/
+out/
+
+### Gradle ###
+.gradle/
+build/
